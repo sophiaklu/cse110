@@ -4,6 +4,7 @@
 I love art and visuals so I am really interested in front end development and I am hoping to get more experience with that through projects. Currently, I am working on a project in React Native. Click the section link to see my linkedin.
 Here's a funny quote I found about CS and JavaScript that many make misconceptions about:
 > Java is to JavaScript what car is to carpet
+
 Sometimes in school (especially during the pandemic) I relate to this:
 ```
 while(alive) {
@@ -19,7 +20,7 @@ Technically the code already repeats with the loop, but you get the idea.
 - I love art, drawing, painting, crafting
 - I **love** dogs and here's a [tiktok](https://vm.tiktok.com/ZMePcBRYD/) of a dog sliding in the snow
 ![Here's my doggo that passed away recently](images/dog.jpeg)
-## My Software Enginerring Goals
+## My Software Engineering Goals
 - [ ] get an internship
 - [ ] get an internship *with* a game design company
 - [ ] Work on a project that has a bigger positive impact on the world
