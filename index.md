@@ -1,7 +1,7 @@
 # Sophia Klueter's User Page
 [Click here to get to the repo's README](README.md)
 ## [SE Interests and Experience](https://www.linkedin.com/in/sophia-klueter-26378b1a0/)
-I love art and visuals so I am really interested in front end development and I am hoping to get more experience with that through projects. Currently, I am working on a project in React Native. Click the section link to see my linkedin.
+I love art and visuals so I am really interested in front end development and I am hoping to get more experience with that through projects. Currently, I am working on a project in React Native. Click the link of this section's header to see my linkedin. [Click here to go to my goals.](https://github.com/sophiaklu/cse110/blob/markdown-user-page/index.md#my-software-engineering-goals)
 Here's a funny quote I found about CS and JavaScript that many make misconceptions about:
 > Java is to JavaScript what car is to carpet
 
